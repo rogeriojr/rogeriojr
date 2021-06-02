@@ -1,14 +1,13 @@
 ## Hello! Eu sou o Rogério
  <div>
   <a href="https://github.com/rogeriojr">
-  <img height="168.5em" src="https://github-readme-stats.vercel.app/api?username=pablocr1&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="168.5em" src="https://github-readme-stats.vercel.app/api?username=rogeriojr&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="168.5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablocr1&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 <div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Pablo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Pablo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Pablo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Pablo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rogerio-Js" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rogerio-HTML" height="10" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rogerio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
   ##
