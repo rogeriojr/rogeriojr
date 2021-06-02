@@ -1,7 +1,7 @@
 ## Hello World! Eu sou o Rogério
  <div>
   <a href="https://github.com/rogeriojr">
-  <img height="168.5em" src="https://github-readme-stats.vercel.app/api?username=rogeriojr&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="168.5em" src="https://github-readme-stats.vercel.app/api?username=rogeriojr&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide=stars,commits,prs,issues,contribs"/>
   <img height="168.5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeriojr&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 <div>
 <div style="display: inline_block"><br>
