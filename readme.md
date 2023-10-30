@@ -1,4 +1,15 @@
 <h2 align="left">Hello World! 👋 Eu sou o Rogério</h2>
+<br/>
+<p>
+Formado em Design gráfico, amante de desenvolvimento de web,
+mobile e aplicações. Desenvolvedor frontend a cerca de 3 anos,
+com expertise em aplicações javascript. Já trabalhei com Vue.js,
+Next.js, Materializze, Chackra-ui, Bootstrap, React, React native,
+Flutter, entre outras frameworks. 
+Conhecimento em design agrega muito valor aos meus trabalhos,
+seja em UI/UX, trazendo resultados com ótimas performances,
+usabilidade e com ótimas tratativas para resolver problemas.
+</p>
 
 ###
 
