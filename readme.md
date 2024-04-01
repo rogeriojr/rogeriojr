@@ -2,7 +2,7 @@
 <br/>
 <p>
 Formado em Design gráfico, amante de desenvolvimento de web,
-mobile e aplicações. Desenvolvedor frontend a cerca de 3 anos,
+mobile e aplicações. Desenvolvedor frontend a cerca de 6 anos,
 com expertise em aplicações javascript. Já trabalhei com Vue.js,
 Next.js, Materializze, Chackra-ui, Bootstrap, React, React native,
 Flutter, entre outras frameworks. 
@@ -19,6 +19,9 @@ usabilidade e com ótimas tratativas para resolver problemas.
   </a>
   <a href="rogeriojr1100@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="http://rj-dev.wuaze.com" target="_blank">
+    <img src="http://rj-dev.wuaze.com/img/logo.png" width="52" height="40" alt="Site logo"  />
   </a>
 </div>
 
