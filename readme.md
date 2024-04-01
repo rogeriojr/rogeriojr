@@ -21,7 +21,7 @@ usabilidade e com ótimas tratativas para resolver problemas.
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="http://rj-dev.wuaze.com" target="_blank">
-    <img src="http://rj-dev.wuaze.com/img/logo.png" width="52" height="40" alt="Site logo"  />
+    <img src="http://rj-dev.wuaze.com/img/logo.png" width="40" height="40" alt="Site logo"  />
   </a>
 </div>
 
