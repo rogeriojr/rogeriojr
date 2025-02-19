@@ -1,14 +1,11 @@
 <h2 align="left">Hello World! 👋 Eu sou o Rogério</h2>
 <br/>
 <p>
-Formado em Design gráfico, amante de desenvolvimento de web,
-mobile e aplicações. Desenvolvedor frontend a cerca de 7 anos,
-com expertise em aplicações javascript. Já trabalhei com Vue.js,
-Next.js, Materializze, Chackra-ui, Bootstrap, React, React native,
-Flutter, entre outras frameworks. 
-Conhecimento em design agrega muito valor aos meus trabalhos,
-seja em UI/UX, trazendo resultados com ótimas performances,
-usabilidade e com ótimas tratativas para resolver problemas.
+Formado em Design Gráfico e apaixonado por desenvolvimento web, mobile e aplicações. Atuo como desenvolvedor há cerca de 7 anos, com forte expertise em JavaScript e suas principais tecnologias. Tenho experiência com frameworks e bibliotecas como Vue.js, Next.js, React, React Native, Flutter, Chakra UI, Bootstrap e Materialize.
+
+Além do desenvolvimento frontend, também programo em Node.js, utilizando Express e Jest, com conhecimento em testes automatizados, incluindo Cypress e Jest para testes unitários e end-to-end.
+
+Minha bagagem em design agrega valor aos projetos, garantindo interfaces intuitivas, usabilidade aprimorada e soluções eficientes para melhor performance e experiência do usuário.
 </p>
 
 ###
